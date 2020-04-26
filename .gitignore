@@ -1,0 +1,10 @@
+venv
+paper
+backup
+#figures
+#figures.manual
+#output
+#output_mat
+.DS_Store
+.idea
+.ipynb_checkpoints
